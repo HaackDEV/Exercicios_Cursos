@@ -2,7 +2,6 @@ public class Main {
     public static void main(String[] args) {
         int idade = 19;
         String nome = "Ruan";
-        boolean disponibilidade = true;
         double peso = 81.2;
         char sexo = 'M';
 
