@@ -3,7 +3,6 @@ public class Main {
         int idade = 19;
         String nome = "Ruan";
         double peso = 81.2;
-        char sexo = 'M';
 
         System.out.println("Olá!");
         System.out.println("Seja bem vindo ao primeiro programa em Java!");
